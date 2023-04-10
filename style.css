@@ -2,20 +2,23 @@
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
-.navbar {
+.container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
 .logo {
-    padding: 20px 300px;
+    padding: 20px 200px;
 }
 
-.hero {
+a {
+    text-decoration: none;
+}
+
+.one {
     background-color: #1F2937;
 }
 
@@ -23,18 +26,20 @@
     font-size: 48px;
     font-weight: extra-bold;
     display: flex;
-    padding: 100px 300px;
+    padding: 100px 200px;
 }
 
 #hero-secondary-text {
     display: flex;
-    padding: 0 300px;
+    padding: 0 200px;
     margin: 0;
 }
 
 li {
     list-style-type: none;
     display: flex;
+    color: #E5E7eB;
+    font-size: 18px;
 }
 
 ul {
