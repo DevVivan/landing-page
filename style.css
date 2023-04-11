@@ -112,8 +112,26 @@ ul {
   padding-right: 300px;
 }
 
+.three {
+  background-color: #E5E7eB;
+}
 
+.quote {
+  font-size: 36px;
+  font-weight: 100;
+  font-style: italic;
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+}
 
+.quote-credit {
+  font-size: 20px;
+  padding-bottom: 150px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 300px;
+}
 
 
 
