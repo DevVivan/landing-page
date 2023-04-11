@@ -87,6 +87,7 @@ ul {
   display: flex;
   font-size: 25px;
   justify-content: center;
+  color: #1F2937;
 }
 
 .box-img {
@@ -98,6 +99,7 @@ ul {
 
 .box-caption {
   text-align: center;
+  color: #1F2937;
 }
 
 .information-boxes {
