@@ -50,6 +50,7 @@ a {
     display: flex;
     padding: 0 200px;
     margin: 0;
+    color: #E5E7eB;
 }
 
 .image-hero {
@@ -133,8 +134,47 @@ ul {
   padding-right: 300px;
 }
 
+.four {
+  background-color: #F9FAF8;
+  padding: 150px 200px;
+}
 
+.cta-box {
+  background-color: #3882F6;
+  padding: 60px 120px;
+  border-radius: 10px;
+}
 
+.cta-header {
+  color: #F9FAF8;
+  font-weight: 600;
+}
+
+.cta-p {
+  color: #E5E7eB;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.cta-box-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.cta-box-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.button-signup {
+  padding: 10px 10px;
+  color: #F9FAF8;
+  background-color: #3882F6;
+  border-radius: 10px;
+}
 
 /* -------------------------------------------------------- CSS RESET ------------------------------------------------------------ */
 /* --------------------------------------------------------------------------------------------------------------------------------*/
