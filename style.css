@@ -24,8 +24,10 @@
   display: flex;
   margin: 10px 0 100px 200px ;
   color: #F9FAF8;
-  padding: 5px 25px;
+  padding: 6px 25px;
   border-radius: 5px;
+  font-size: 14px;
+  border: none;
 }
 
 a {
@@ -41,13 +43,21 @@ a {
     font-weight: extra-bold;
     display: flex;
     padding: 0 200px;
-    padding-top: 100px;
+    padding-top: 60px;
 }
 
 #hero-secondary-text {
     display: flex;
     padding: 0 200px;
     margin: 0;
+}
+
+.image-hero {
+  width: 500px;
+  height: 250px;
+  background-color: #6d747d;
+  margin-top: 60px;
+  border: none;
 }
 
 li {
