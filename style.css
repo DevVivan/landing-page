@@ -82,7 +82,28 @@ ul {
     font-size: 18px;
 }
 
+.information-header {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
 
+.box-img {
+  width: 200px;
+  height: 200px;
+  border: 1000px;
+  border-color: #3882F6;
+}
+
+.box-caption {
+  text-align: center;
+}
+
+.information-boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
 
 
 
