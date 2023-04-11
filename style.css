@@ -85,14 +85,15 @@ ul {
 .information-header {
   margin-top: 30px;
   display: flex;
+  font-size: 25px;
   justify-content: center;
 }
 
 .box-img {
-  width: 200px;
-  height: 200px;
-  border: 1000px;
-  border-color: #3882F6;
+  width: 160px;
+  height: 160px;
+  border: 3px solid #3882F6;
+  border-radius: 7px;
 }
 
 .box-caption {
@@ -102,7 +103,11 @@ ul {
 .information-boxes {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 
