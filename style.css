@@ -142,6 +142,7 @@ ul {
 .cta-box {
   background-color: #3882F6;
   border-radius: 10px;
+  padding: 0px;
 }
 
 .cta-header {
@@ -151,21 +152,15 @@ ul {
 
 .cta-p {
   color: #E5E7eB;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
 }
 
 .cta-box-left {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 30px 100px;
 }
 
 .cta-box-right {
   display: flex;
   justify-content: flex-end;
-  align-items: center;
 }
 
 .button-signup {
@@ -174,8 +169,6 @@ ul {
   background-color: #3882F6;
   border: 2px solid #F9FAF8;
   border-radius: 10px;
-  display: flex;
-  align-items: flex-start;
 }
 
 .button-signup:hover {  
