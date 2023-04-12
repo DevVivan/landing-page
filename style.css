@@ -166,14 +166,27 @@ ul {
 .cta-box-right {
   display: flex;
   justify-content: flex-end;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .button-signup {
-  padding: 10px 10px;
+  padding: 10px 40px;
   color: #F9FAF8;
   background-color: #3882F6;
+  border: 2px solid #F9FAF8;
   border-radius: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.button-signup:hover {  
+  color: #3882F6;
+  background-color: #F9FAF8;
+}
+
+button {
+  font-weight: 700;
+  font-size: 12px;
 }
 
 /* -------------------------------------------------------- CSS RESET ------------------------------------------------------------ */
