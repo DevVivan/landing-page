@@ -141,7 +141,6 @@ ul {
 
 .cta-box {
   background-color: #3882F6;
-  padding: 60px 120px;
   border-radius: 10px;
 }
 
@@ -160,7 +159,7 @@ ul {
 .cta-box-left {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .cta-box-right {
