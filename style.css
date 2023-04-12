@@ -142,7 +142,8 @@ ul {
 .cta-box {
   background-color: #3882F6;
   border-radius: 10px;
-  padding: 0px;
+  display: flex;
+  padding: 20px 30px;
 }
 
 .cta-header {
@@ -160,7 +161,9 @@ ul {
 
 .cta-box-right {
   display: flex;
+  align-items: center;
   justify-content: flex-end;
+  padding-left: 100px;
 }
 
 .button-signup {
