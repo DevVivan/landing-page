@@ -13,7 +13,7 @@ In this recipes project, I revised my CSS knowledge, applying the basics of flex
 
 ### CSS
 
-- **CSS Reset**
+- Using a CSS Reset
 - Flexbox: `flex-direction`, `justify-content`, `align-items`
 - The Box Model
 - Using `border-radius`
