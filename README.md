@@ -21,6 +21,7 @@ In this recipes project, I revised my CSS knowledge, applying the basics of flex
 ### Other
 
 - Breaking down projects into sections, and sections into sub-sections
+- Consolidation of the [*Git Workflow*](https://www.theodinproject.com/lessons/foundations-git-basics)
 
 ## Images
 
