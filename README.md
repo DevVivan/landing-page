@@ -9,6 +9,19 @@ In this recipes project, I revised my CSS knowledge, applying the basics of flex
 - [*Live Preview*](https://devvivan.github.io/odin-landing-page/)
 - [*My Progress*](https://github.com/DevVivan/odin-project)
 
+## What did this project teach me?
+
+### CSS
+
+- **CSS Reset**
+- Flexbox: `flex-direction`, `justify-content`, `align-items`
+- The Box Model
+- Using `border-radius`
+
+### Other
+
+- Breaking down projects into sections, and sections into sub-sections
+
 ## Images
 
 ![Main Page 1](screenshots/screenshot-1.png)
